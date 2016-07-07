@@ -1,6 +1,6 @@
 # Simple program to parse data from file to be used elsewhere.
 # Given a file with the original format, the program works.
-#Tested on Ubuntu OS
+# Tested on Ubuntu OS
 
 def main():
     fname = '/home/fake/path'
