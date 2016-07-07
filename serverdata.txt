@@ -1,0 +1,9 @@
+Number of Servers
+10
+
+Operating System Variety
+RedHat	Ubuntu	Windows
+
+Percent Active
+.9
+
